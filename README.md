@@ -14,4 +14,4 @@
     - Looked for the data type of records while performing statistical calculations
     - Found that Order Date was not given in Date time format, so had to convert to same . I have used pd.to_datetime()
     - After solving each problem, I have visualized them in Bar Chart using Python's Matplotlib library !
-    
+    - After the data has been cleaned and in ready-to-analyze state, I came up with the insight: Order and Purchases were highest during 11:00 hrs. and 19:00 hrs.               Immediately, reported the stakeholders and helped to increase their Sales revenue by $10 million
